@@ -1,7 +1,7 @@
 # SQL-Projeto-Date-Warehouse
 Esse projeto consiste em um Data warehousing e Analytics solutions, partindo desde a construção de um data wareouse até a geração de insights acionáveis. Planejado como um projeto de portfólio, ele destaca práticas do setor de análise de dados.
 
-🚀 Requisitos do Projeto
+Requisitos do Projeto
 
 Construção do Data Warehouse
 
@@ -24,6 +24,6 @@ Desenvolver análises baseadas em SQL para fornecer insights detalhados sobre:
   Tendências de Vendas
 Esses insights fornecem métricas de negócios essenciais, permitindo a tomada de decisões estratégicas.
 
-Sobre mim/About me:
+Sobre mim:
 
 Fala pessoal, me chamo Eduardo Gotti ou só Gotti. Sou estudante de ADS e pretendo compartilhar alguns projetos por aqui.
